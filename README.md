@@ -1,4 +1,4 @@
-# Flutter Netflix Responsive UI Tutorial | Web and Mobile
+# Demo SWAGLABS Test Using Robot Framework
 
 #### A simple project to test [SWAGLABS](https://www.saucedemo.com/) site using [Robot Framework](https://robotframework.org/).
 
